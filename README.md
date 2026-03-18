@@ -59,3 +59,9 @@ Podrás visualizar inmediatamente las pantallas de Login o bien explorar el Dash
 - Fondo: `#F8FAFC` (Gris Ultra-claro)
 - Superficies: `#FFFFFF` (Blanco puro)
 - Fuente: `Inter`
+
+
+## Varaibles de entorno
+Asegurate de tener un archivo .env en la raiz del proyecto con la siguiente variable:
+
+VITE_API_URL=http://localhost:3000 (o la URL de tu backend)
